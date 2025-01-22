@@ -18,5 +18,5 @@ By Roderick Qiu @SUSTech.
 
 # Fall 2024
 
-- [CS303 Review: Anticipation and Inference](https://siek1c2kh6t.feishu.cn/wiki/W6vmwvkGHi3Zbzkj98OceLX2nRg?from=from_copylink)
+- [CS303 Review: AI: Anticipation and Inference](https://siek1c2kh6t.feishu.cn/wiki/W6vmwvkGHi3Zbzkj98OceLX2nRg?from=from_copylink) (94/A)
 - [CS309 Review: OOAD - Overly Abstract Design](https://siek1c2kh6t.feishu.cn/wiki/QnKrwSA6DiuSHRkTNoPcD17onWh?from=from_copylink) (96/A)
