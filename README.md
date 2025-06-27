@@ -20,3 +20,7 @@ By Roderick Qiu @SUSTech.
 
 - [CS303 Review: AI: Anticipation and Inference](https://siek1c2kh6t.feishu.cn/wiki/W6vmwvkGHi3Zbzkj98OceLX2nRg?from=from_copylink) (94/A)
 - [CS309 Review: OOAD - Overly Abstract Design](https://siek1c2kh6t.feishu.cn/wiki/QnKrwSA6DiuSHRkTNoPcD17onWh?from=from_copylink) (96/A)
+
+# Spring 2025
+
+- [CS304 Review: Software Structure & Solution](https://siek1c2kh6t.feishu.cn/wiki/BVprws1xSixqDtkg6ggc0U5InCl?from_copylink) (100/A+)
